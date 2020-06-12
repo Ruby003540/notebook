@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue May 19 10:44:25 CST 2020
+0.baseType=DIRECTORY
+0.base=E\:\\TaoBaoWorkSpace\\0518\\NoteBook\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1
